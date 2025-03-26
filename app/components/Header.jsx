@@ -27,7 +27,7 @@ const Header = () => {
         transition={{ duration: 0.6, delay: 0.3 }}
         className="flex items-end gap-2 text-xl md:text-2xl mv-3 font-Ovo"
       >
-        Hi! I'm Om Wankhede
+        Hi..!! I'm Om Wankhede
         <Image
           src={assets.hand_icon}
           alt=""
